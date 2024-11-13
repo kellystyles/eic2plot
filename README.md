@@ -39,7 +39,8 @@ For Agilent data for example, you will need to:
 <div style="border-left: 4px solid #0074D9; padding: 10px; background-color: #E8F4FD;">
 <b> 💡 **Note:**</b> *Make sure to click `Run > Run All Cells` in the Notebook to launch the GUI!*
 </div>
-\n
+
+
 Up the top of Jupyter Notebook/Lab, click `Run > Run All Cells` and a new window should pop up in your browser. Upload your `mzXML` 
 files in the order you would like them to be plotted, then input your selected parameters and play around with image output options. 
 Both SVG and JPG image files will be generated for each plot and can be foung in the same folder as this Notebook.
