@@ -15,7 +15,7 @@ In order to use this Notebook you will need to prepare a conda environment conta
 - gradio (tested on version 5.1.0)
 
 <div style="border-left: 4px solid #0074D9; padding: 10px; background-color: #E8F4FD;">
-<b>Note:</b> The easiest way to do this is to install Anaconda for Windows/Mac OS and 
+<b> 💡 Note:</b> The easiest way to do this is to install Anaconda for Windows/Mac OS and 
   prepare an environment containing these packages. Then launch Jupyter Lab/Jupyter Notebook from this environment.
 </div>
 
@@ -31,13 +31,13 @@ For Agilent data for example, you will need to:
 2. Convert this data to mzXML format using [Proteowizard - msConvert](https://proteowizard.sourceforge.io/download.html)
 
 <div style="border-left: 4px solid #0074D9; padding: 10px; background-color: #E8F4FD;">
-<b>Note:</b> This Notebook will work for both MS1 and MS2 files, but only extracting MS1 data from the latter.
+<b> 💡 Note:</b> This Notebook will work for both MS1 and MS2 files, but only extracting MS1 data from the latter.
 </div>
 
 ## Usage
 
 <div style="border-left: 4px solid #0074D9; padding: 10px; background-color: #E8F4FD;">
-<b>Note:</b> Make sure to click `Run > Run All Cells` in the Notebook to launch the GUI!
+<b> 💡 Note:</b> Make sure to click `Run > Run All Cells` in the Notebook to launch the GUI!
 </div>
 
 Up the top of Jupyter Notebook/Lab, click `Run > Run All Cells` and a new window should pop up in your browser. Upload your `mzXML` 
